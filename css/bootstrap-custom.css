@@ -88,12 +88,13 @@ a{
 
 
 
-
+/*
 .carousel-caption{
 	display: grid !important;
 	align-content: center;
 	height: 100%;
 }
+*/
 .carousel-item{
 	/*height: 100vh; opcional: en caso de no utilizar una imagen de fondo por slide*/
 }
