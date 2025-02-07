@@ -273,12 +273,50 @@ footer .list-unstyled li{
 
 
 
+/*lg = computadora*/
+@media (min-width:1200px){
+	
+	
+}
 
+/*sm = tableta*/
+@media (min-width:600px) and (max-width:1200px){
+	
+	
+	
+}
 
-
-
-
-
+/*celular*/
+@media(max-width:600px){
+	
+	h1.lifestyle{
+		font-size: 40px;
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+	
+	.mb-5{
+		margin-bottom: 30px !important;
+	}
+	
+	.titulos h2{
+		font-size: 35px;
+		margin-bottom: 15px;
+	}
+	.titulos h3{
+		margin-top: 20px;
+	}
+	
+	#features img{
+		width: 200px;
+		margin: auto;
+	}
+	
+	.feature{
+		margin-top: 20px;
+		margin-bottom: 15px;
+	}
+}
 
 
 
